@@ -62,4 +62,4 @@ lakeDAO.writeStreamTo(df2, "hl7_json_lake_ok_silver" )
 
 # COMMAND ----------
 
-LakeConfig.getCheckpointLocation(tableName="hl7_json_lake_ok_silver")
+
